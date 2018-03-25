@@ -1,5 +1,4 @@
-
-num=int(input("enter the value:"))
+num=int(input("enter the value : "))
 if(num>=0):
     if(num==0):
         print("zero")
